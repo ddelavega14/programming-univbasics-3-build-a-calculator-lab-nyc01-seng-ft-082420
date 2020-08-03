@@ -21,6 +21,3 @@ end
 def square_root(num)
 
 end
-
-Math.sqrt(num)
-end
